@@ -127,9 +127,9 @@ MCA — Cloud Computing and DevOps
 
 Chandigarh University
 
-linkedin: (https://linkedin.com/in/mantukunda715)
+linkedin: (https://linkedin.com/in/mantu-kunda)
 
-GitHub: [@Mantu-code](https://github.com/Mantu-code)
+GitHub: [@Mantu-Kunda](https://github.com/Mantu-Kunda)
 
 📄 License
 
